@@ -6,7 +6,7 @@ This repository includes the solutions to solve the challenges of Codember 2022
 
 | #   | Challenge                                    | Implementation                     |
 | --- | -------------------------------------------- | ---------------------------------- |
-| 1   | [¡Arregla Twitter!](./challenge01/README.md) | [solution](./challenge01/index.ts) |
+| 1   | [¡Arregla Twitter!](./challenge01/README.md) | [Solution](./challenge01/index.ts) |
 
 ## More info
 

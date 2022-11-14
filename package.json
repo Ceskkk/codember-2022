@@ -1,0 +1,19 @@
+{
+  "name": "codember",
+  "description": "This repository includes the solutions to solve the challenges of Codember 2022",
+  "version": "1.0.0",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ceskkk/codember-2022.git"
+  },
+  "author": "Ceskkk",
+  "license": "ISC",
+  "homepage": "https://github.com/Ceskkk/codember-2022#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  }
+}

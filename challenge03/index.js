@@ -3,7 +3,7 @@ import * as fs from 'fs'
 const parseColors = (colors) => JSON.parse(colors)
 const formatQuotes = (text) => text.replaceAll("'", '"')
 
-export default function challenge02 () {
+export default function challenge03 () {
   const colorsFile = fs.readFileSync('./challenge03/colors.txt', 'utf8')
   const splittedColors = parseColors(formatQuotes(colorsFile))
 

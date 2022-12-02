@@ -3,6 +3,9 @@
   "description": "This repository includes the solutions to solve the challenges of Codember 2022",
   "version": "1.0.0",
   "type": "module",
+  "scripts": {
+    "dev": "node main.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ceskkk/codember-2022.git"
